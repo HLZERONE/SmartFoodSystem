@@ -1,0 +1,54 @@
+.custom-button-dashboard{
+  background-color: #E1EDB0;
+}
+
+.custom-button-search {
+  background-color: #8482ed;
+  color:white;
+}
+
+.custom-button-food-storage {
+  background-color: #B0EDEA;
+}
+
+.custom-button-food-consumption {
+  background-color: #e784e9;
+  color:white;
+}
+
+.custom-button-setting {
+  background-color: #B9EDB0;
+}
+
+.custom-button-help {
+  background-color: #3cb1d5;
+  color:white;
+}
+
+
+.gradient-text {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 100%;
+  height: 20vh;
+  background: linear-gradient(to right, transparent, transparent, red, white, white);
+  text-align: center;
+}
+
+.gradient-text h1 {
+  font-size: 36px;
+  color: white;
+}
+
+.home-icon {
+  width: 30px;
+  height: 30px;
+}
+
+.custom-navbar {
+  background-color: red;
+  color: white; /* Set the text color to contrast with the red background */
+  padding: 10px 0; /* Add padding as needed */
+}
+
